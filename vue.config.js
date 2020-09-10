@@ -8,4 +8,5 @@ module.exports = {
       jsonpFunction: `webpackJsonp_${packageName}`,
     },
   },
+  publicPath: './',
 };
